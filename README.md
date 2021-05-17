@@ -5,6 +5,7 @@ My main language is **Java**, on which I spend most of my free time, but I also 
 ## Contact
 I'm available on [**Discord**](https://discord.com) under the name - [**shitzuu#1386**](https://discordapp.com/users/316953327936077827).
 
-[<img src="https://api.speedtyper.dev/users/shitzuu/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="23px" width="175px">](https://www.speedtyper.dev/profile/shitzuu) 
-[<img src="https://api.speedtyper.dev/users/shitzuu/badges/topwpm" alt="SpeedTyper.dev top wpm" height="23px" width="175px">](https://www.speedtyper.dev/profile/shitzuu) 
-[<img src="https://api.speedtyper.dev/users/shitzuu/badges/gamecount" alt="SpeedTyper.dev games" height="23px" width="175px">](https://www.speedtyper.dev/profile/shitzuu)
+[<img src="https://api.speedtyper.dev/users/shitzuu/badges/averagewpm" alt="SpeedTyper.dev avg wpm" height="25">](https://www.speedtyper.dev/profile/shitzuu) 
+[<img src="https://api.speedtyper.dev/users/shitzuu/badges/topwpm" alt="SpeedTyper.dev top wpm" height="25">](https://www.speedtyper.dev/profile/shitzuu) 
+[<img src="https://api.speedtyper.dev/users/shitzuu/badges/gamecount" alt="SpeedTyper.dev games" height="25">](https://www.speedtyper.dev/profile/shitzuu)
+
